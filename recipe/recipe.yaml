@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   version: "1.9.1"
-  build: 1
+  build: 2
   mpi_prefix: mpi_${{ mpi }}
 
 package:
